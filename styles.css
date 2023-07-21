@@ -1,2 +1,11 @@
 
 /* Your CSS Code here. */
+.row{
+	display:flex;
+	justify-content:space-between;
+	  
+}
+.col-sm-4{
+	margin:30px;
+	 
+}
